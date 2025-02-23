@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Dog.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  dog.cpp
+  main.cpp
+  Generating Code...
+  Dog.vcxproj -> C:\Users\pradh\source\repos\Dog\Debug\dog_to_human_age.exe
